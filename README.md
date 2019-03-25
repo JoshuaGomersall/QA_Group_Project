@@ -22,8 +22,8 @@ Presentation last day.
 -should know whats going on and will be asked by staff how the group is doing
 
 1 Quality Assurance (QA)
-- check the code is not a pile of wank
-- role is to be a quality gate before it gets checked by jordan
+- check the code is not a pile of crap
+- role is to be a quality gate before it gets checked by Jordan
 -70% code coverage (unit tests)
 - 0% code smells, sonar cube
 - have an eye for detail
