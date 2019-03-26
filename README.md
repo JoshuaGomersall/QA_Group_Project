@@ -2,7 +2,7 @@
 
 Server Ports:
 
-Gateway: 8081
+Gateway: 8081 \n
 Getters: 8082
 Verification: 8083
 GroupBooking: 8084
