@@ -1,15 +1,22 @@
 # QA_Group_Project
 
 Server Ports:
+---------------------
 
-Gateway: 8081 \n
+Gateway: 8081
+
 Getters: 8082
+
 Verification: 8083
+
 GroupBooking: 8084
+
 JMS ActiveMQ: 8161
+
 React: 3000
 
 Some details
+----------------------
 
 Scrum Master - Joe Simmons
 
